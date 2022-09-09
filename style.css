@@ -1,0 +1,46 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 8px 2px 23px #26395338;
+    width: 400px;
+}
+
+.media_card {
+    background: url(https://kanto.legiaodosherois.com.br/w750-h450-k1/wp-content/uploads/2022/05/legiao_j7TRwbJSdAcr.jpg.webp) center/cover;
+
+    /* background: url(img/cachorro.webp) center/cover; */
+    height: 200px;
+    width: 100%;
+}
+
+.tittle {
+    color: #828fa1;
+}
+
+.button_text {
+    color: #828fa1;
+}
+
+.top_card {
+    padding: 20px;
+    padding-top: 0px;
+}
+
+.button_card {
+    padding: 20px;
+}
+
+.actions {
+    background: none;
+    border: none;
+    color: #800080;
+}
